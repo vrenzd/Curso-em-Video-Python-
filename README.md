@@ -1,5 +1,7 @@
 #  Curso em Vídeo - Python (Mundo 1, 2 e 3)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0d28f6c075594ac7a5cadaae1ace1d5d)](https://app.codacy.com/gh/vrenzd/Curso-em-Video-Python-?utm_source=github.com&utm_medium=referral&utm_content=vrenzd/Curso-em-Video-Python-&utm_campaign=Badge_Grade)
+
 Este repositório contém os exercícios, desafios e projetos desenvolvidos durante o curso de Python ministrado pelo professor Gustavo Guanabara no canal [Curso em Vídeo](https://www.cursoemvideo.com/). O curso é dividido em três módulos (Mundos), cada um com foco em diferentes aspectos da linguagem Python.
 
 ---
